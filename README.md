@@ -1,2 +1,2 @@
 # Cuchimana
-Android external data manager
+Android external storage manager
